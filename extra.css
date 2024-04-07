@@ -1,0 +1,18 @@
+body{
+    background-color:  #2B2C30;
+    
+}
+
+li
+a{
+    color: #F82586;
+}
+
+.button
+{
+    background-color:#F82586 ;
+}
+
+.nav a:hover{
+    color: white;
+}
